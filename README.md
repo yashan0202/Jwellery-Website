@@ -56,5 +56,5 @@
     </ol>
     <h2>Outcome</h2>
     <p>The <b>Jewelry Website</b> successfully demonstrates a strong foundation in frontend development and UI/UX design principles. With its visually appealing interface, interactive features, and focus on user engagement, this project showcases the ability to create a modern e-commerce platform tailored for the jewelry industry.</p>
-</body>
-</html>
+
+<h2>Developed by: Yash Anand</h2>
